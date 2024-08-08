@@ -1,6 +1,6 @@
 # (⌐■_■) 
 
-I'm double majoring in Math and Computer Science at UCLA. Currently working on building the world's most powerful scrabble robot.
+I'm double majoring in Math and Computer Science at UCLA.
 
 - 📫 How to reach me:
 - eddnawrocki@gmail.com
