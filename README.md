@@ -1,6 +1,4 @@
-# (⌐■_■) 
-
-I'm double majoring in Math and Computer Science at UCLA.
+I'm working on degrees for Math and Computer Science at UCLA.
 
 - 📫 How to reach me:
 - eddnawrocki@gmail.com
